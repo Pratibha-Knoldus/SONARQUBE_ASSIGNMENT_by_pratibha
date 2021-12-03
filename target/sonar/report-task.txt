@@ -1,0 +1,6 @@
+projectKey=SONARQUBE_ASSIGNMENT
+serverUrl=http://localhost:9000
+serverVersion=9.2.0.49834
+dashboardUrl=http://localhost:9000/dashboard?id=SONARQUBE_ASSIGNMENT
+ceTaskId=AX2AVcMQqg35TMBS2u4_
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX2AVcMQqg35TMBS2u4_
